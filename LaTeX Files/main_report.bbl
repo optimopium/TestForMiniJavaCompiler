@@ -1,0 +1,272 @@
+\begin{thebibliography}{10}
+
+\bibitem{parkwhiz_availability}
+24/7 access to parkwhiz.
+\newblock \url{https://help.parkwhiz.com/en_us/247-access-HJagl1gZWPW}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{carpool_dis}
+6 advantages and disadvantages of carpooling.
+\newblock
+  \url{https://connectusfund.org/6-advantages-and-disadvantages-of-carpooling}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{kafka}
+Apache kafka.
+\newblock \url{http://kafka.apache.org/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{uber_kafka}
+Apache kafka at uber.
+\newblock \url{https://eng.uber.com/kafka/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{argos}
+Argos.
+\newblock \url{https://eng.uber.com/argos-real-time-alerts/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{aurora}
+aurora.
+\newblock \url{http://aurora.apache.org/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{cassandra}
+cassandra.
+\newblock \url{https://cassandra.apache.org/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{schemaless}
+Designing schemaless, uber engineering’s scalable datastore using mysql.
+\newblock \url{https://eng.uber.com/schemaless-part-one-mysql-datastore/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{hadoop}
+hadoop.
+\newblock
+  \url{https://hadoop.apache.org/docs/r2.7.1/hadoop-yarn/hadoop-yarn-site/YARN.html}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{test_50}
+How do we measure the costs of software testing.
+\newblock
+  \url{https://www.softwaretestinggenius.com/how-do-we-measure-the-costs-of-software-testing/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{micro_secure}
+How to secure microservices architecture.
+\newblock
+  \url{https://securityintelligence.com/posts/how-to-secure-microservices-architecture/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{waze_gis}
+Integrating waze with arcgis.
+\newblock \url{https://working-with-waze.hub.arcgis.com/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{payment}
+Interoperability and the digital payment ecosystem.
+\newblock \url{https://valid.com/digital-payment-ecosystem}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{microservice_uber}
+Introducing domain-oriented microservice architecture.
+\newblock \url{https://eng.uber.com/microservice-architecture}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{kubernetes}
+kubernetes.
+\newblock \url{https://kubernetes.io/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{m3}
+M3.
+\newblock \url{https://www.youtube.com/watch?v=89H48IwFeV4}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{m3_uber}
+M3: Uber’s open source, large-scale metrics platform for prometheus.
+\newblock \url{https://eng.uber.com/m3/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{mesos}
+mesos.
+\newblock \url{http://mesos.apache.org/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{micro_a}
+Microservice architecture.
+\newblock \url{https://microservices.io/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{micro_carpooling}
+Microservices: an agile architecture for carpooling application.
+\newblock
+  \url{https://donetechno.com/en/microservices-an-agile-architecture-part-1/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{loose_coupling}
+Modular agile: Loosely coupled, highly cohesive ceremonies.
+\newblock \url{https://dzone.com/articles/modular-agile-loosely-coupled}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{myway_req}
+Myway: Requirement specification and analysis.
+\newblock \url{https://www.sonarsource.com/why-us/code-quality/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{Nagios}
+Nagios.
+\newblock \url{https://www.nagios.org/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{parkwhiz_ux}
+Parkwhiz: A design review.
+\newblock
+  \url{https://medium.com/@corresrachel/parkwhiz-a-design-review-98c15033af36}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{resource_uber}
+Peloton: Uber’s unified resource scheduler for diverse cluster workloads.
+\newblock
+  \url{https://eng.uber.com/resource-scheduler-cluster-management-peloton/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{migration_postgres}
+Project mezzanine: The great migration.
+\newblock \url{https://eng.uber.com/mezzanine-codebase-data-migration/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{redis}
+redis.
+\newblock \url{https://redis.io/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{riak}
+Riak.
+\newblock \url{https://riak.com/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{sonarqube_cite}
+Sonarqube, code quality.
+\newblock \url{https://www.sonarsource.com/why-us/code-quality/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{interoperability_with_google_maps}
+Starnavpilot, navigation software.
+\newblock
+  \url{https://www.aragon-technologies.com/en/starnavpilot/interoperability_with_google_maps.php}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{support_term_parkwhiz}
+Support terms of parkwhiz.
+\newblock \url{https://www.parkwhiz.com/support/terms/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{parkwhiz_sensors}
+The technological race to find you a place to park.
+\newblock
+  \url{https://www.nytimes.com/2017/11/30/business/car-parking-apps.html}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{sec_3_princilpe}
+Three tenets of information security.
+\newblock
+  \url{https://www.lbmc.com/blog/three-tenets-of-information-security/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{Twemproxy}
+Twemproxy.
+\newblock \url{https://github.com/twitter/twemproxy}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{techstack}
+The uber engineering tech stack, part i: The foundation.
+\newblock \url{https://eng.uber.com/tech-stack-part-one-foundation/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{uber_ux}
+Uber usability analysis.
+\newblock
+  \url{https://medium.com/@monikaadarsh/does-uber-app-have-an-uber-user-experience-e054189e60e5}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{uber_priority}
+Uber’s real-time push platform.
+\newblock \url{https://eng.uber.com/real-time-push-platform/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{uber_test}
+Under the hood of uber’s experimentation platform.
+\newblock \url{https://eng.uber.com/xp/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{waze_two_days}
+Using waze and scoop apps for carpool commuting.
+\newblock \url{https://cubicletherapy.com/waze-scoop-carpool/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{waze_carpool}
+Waze carpool.
+\newblock \url{https://www.waze.com/carpool/}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{availability}
+Wikipedia: Availability.
+\newblock \url{https://en.wikipedia.org/wiki/Availability}.
+\newblock Accessed: 2021-06-02.
+
+\bibitem{ahmed2019blockchain}
+{\sc Ahmed, S., Rahman, M.~S., Rahaman, M.~S., et~al.}
+\newblock A blockchain-based architecture for integrated smart parking systems.
+\newblock In {\em 2019 IEEE International Conference on Pervasive Computing and
+  Communications Workshops (PerCom Workshops)\/} (2019), IEEE, pp.~177--182.
+
+\bibitem{ataie2011improving}
+{\sc Ataie, E., Babaeian, M., and Aghaei, F.}
+\newblock Improving software quality by pattern driven software architecture.
+\newblock In {\em 5th Symposium on Advance in Science \& Technologies\/}
+  (2011).
+
+\bibitem{bass2003software}
+{\sc Bass, L., Clements, P., and Kazman, R.}
+\newblock {\em Software architecture in practice}.
+\newblock Addison-Wesley Professional, 2003.
+
+\bibitem{ciubuancan2020empirical}
+{\sc CIUB{\u{A}}NCAN, D., and ȚIRBAN, P.}
+\newblock Empirical validation of oo metrics impact on changeability.
+\newblock {\em Studia Universitatis Babes-Bolyai, Informatica 65}, 1 (2020).
+
+\bibitem{evans2004domain}
+{\sc Evans, E., and Evans, E.~J.}
+\newblock {\em Domain-driven design: tackling complexity in the heart of
+  software}.
+\newblock Addison-Wesley Professional, 2004.
+
+\bibitem{martin2018clean}
+{\sc Martin, R.~C.}
+\newblock {\em Clean architecture: a craftsman's guide to software structure
+  and design}.
+\newblock Prentice Hall, 2018.
+
+\bibitem{perrey2003service}
+{\sc Perrey, R., and Lycett, M.}
+\newblock Service-oriented architecture.
+\newblock In {\em Applications and the Internet Workshops, 2003. Proceedings.
+  2003 Symposium on\/} (2003), IEEE, pp.~116--119.
+
+\bibitem{sudmanns2018semantic}
+{\sc Sudmanns, M., Tiede, D., Lang, S., and Baraldi, A.}
+\newblock Semantic and syntactic interoperability in online processing of big
+  earth observation data.
+\newblock {\em International journal of digital earth 11}, 1 (2018), 95--112.
+
+\bibitem{verma2015large}
+{\sc Verma, A., Pedrosa, L., Korupolu, M., Oppenheimer, D., Tune, E., and
+  Wilkes, J.}
+\newblock Large-scale cluster management at google with borg.
+\newblock In {\em Proceedings of the Tenth European Conference on Computer
+  Systems\/} (2015), pp.~1--17.
+
+\end{thebibliography}

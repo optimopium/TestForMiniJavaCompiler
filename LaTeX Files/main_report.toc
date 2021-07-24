@@ -1,0 +1,17 @@
+\textbf {\relax $\@@underline {\hbox {\beginR عنوان\endR }}\mathsurround \z@ $\relax }
+\hfill \textbf {\relax $\@@underline {\hbox {\beginR صفحه\endR }}\mathsurround \z@ $\relax }\par 
+\contentsline {section}{فهرست مطالب}{سه}% 
+\contentsline {chapter}{فصل\nobreakspace {}\numberline {اول\tmspace +\thinmuskip {.1667em}: مقدمه}}{چهار}% 
+\contentsline {section}{\numberline {1-1}معرفی برنامه مورد آزمون و هدف پروژه}{چهار}% 
+\contentsline {section}{\numberline {1-2}فرض‌ها و محدودیت‌های درنظر گرفته شده}{پنج}% 
+\contentsline {section}{\numberline {1-3}روش آزمون انتخابی و دلایل انتخاب آن}{پنج}% 
+\contentsline {section}{\numberline {1-4}معیارهای پوشش انتخابی}{شش}% 
+\contentsline {section}{\numberline {1-5}چگونگی استفاده از روش‌های انتخابی}{شش}% 
+\contentsline {section}{\numberline {1-6}ابزارهای مورد استفاده جهت تست}{هفت}% 
+\contentsline {section}{\numberline {1-7}مراحل مختلف آزمون}{هشت}% 
+\contentsline {subsection}{\numberline {1-7-1}نیازمندی‌های آزمون}{هشت}% 
+\contentsline {subsection}{\numberline {1-7-2}مورد آزمون}{نه}% 
+\contentsline {subsection}{\numberline {1-7-3}انجام آزمون}{نه}% 
+\contentsline {subsubsection}{:Junit}{نه}% 
+\contentsline {subsubsection}{:PIT}{ده}% 
+\contentsline {section}{\numberline {1-8}نتیجه‌گیری}{یازده}% 

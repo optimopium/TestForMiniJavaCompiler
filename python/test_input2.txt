@@ -1,0 +1,21 @@
+class abcdefghijklmnopqrstuvwxyz {}
+
+class ABCDEFGHIJKLMNOPQRSTUVWXYZ extends abcdefghijklmnopqrstuvwxyz {
+    public static boolean func ( ) {
+            boolean b ;
+            b = ABCDEFGHIJKLMNOPQRSTUVWXYZ . bb ( 8 , 7 ) ;
+            return b ;
+        }
+    public static boolean bb ( int abc , int efg )  {
+        return false ;
+    }
+}
+
+
+public class mymain {
+    public static void main() {
+        boolean a ;
+        a = ABCDEFGHIJKLMNOPQRSTUVWXYZ . func ( ) ;
+        a = true ;
+    }
+}

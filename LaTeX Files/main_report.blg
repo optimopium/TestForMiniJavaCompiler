@@ -1,0 +1,81 @@
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (04 mar 2019)
+
+The 8-bit codepage and sorting file: cp1256fa.csf
+The top-level auxiliary file: main_report.aux
+A level-1 auxilliary file: firstpages.aux
+A level-1 auxilliary file: abstract.aux
+The style file: acm.bst
+A level-1 auxilliary file: chap0.aux
+A level-1 auxilliary file: chap1.aux
+A level-1 auxilliary file: chap2.aux
+A level-1 auxilliary file: chap3.aux
+A level-1 auxilliary file: chap4.aux
+A level-1 auxilliary file: chap5.aux
+A level-1 auxilliary file: chap6.aux
+A level-1 auxilliary file: chap7.aux
+A level-1 auxilliary file: chap8.aux
+A level-1 auxilliary file: chap9.aux
+A level-1 auxilliary file: chap10.aux
+A level-1 auxilliary file: references.aux
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=20001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
+Database file #1: ref.bib
+I was expecting a `,' or a `}'---line 134 of file ref.bib
+ : 
+ : @misc{kubernetes,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "domainmicroservice"
+Warning--to sort, need author or key in myway_req
+Warning--to sort, need author or key in waze_carpool
+Warning--to sort, need author or key in parkwhiz_ux
+Warning--to sort, need author or key in availability
+Warning--to sort, need author or key in uber_kafka
+Warning--to sort, need author or key in waze_two_days
+Warning--to sort, need author or key in parkwhiz_availability
+Warning--to sort, need author or key in interoperability_with_google_maps
+Warning--to sort, need author or key in payment
+Warning--to sort, need author or key in waze_gis
+Warning--to sort, need author or key in parkwhiz_sensors
+Warning--to sort, need author or key in loose_coupling
+Warning--to sort, need author or key in sonarqube_cite
+Warning--to sort, need author or key in carpool_dis
+Warning--to sort, need author or key in support_term_parkwhiz
+Warning--to sort, need author or key in uber_priority
+Warning--to sort, need author or key in sec_3_princilpe
+Warning--to sort, need author or key in test_50
+Warning--to sort, need author or key in uber_test
+Warning--to sort, need author or key in uber_ux
+Warning--to sort, need author or key in microservice_uber
+Warning--to sort, need author or key in m3_uber
+Warning--to sort, need author or key in resource_uber
+Warning--to sort, need author or key in kubernetes
+Warning--to sort, need author or key in hadoop
+Warning--to sort, need author or key in aurora
+Warning--to sort, need author or key in mesos
+Warning--to sort, need author or key in migration_postgres
+Warning--to sort, need author or key in schemaless
+Warning--to sort, need author or key in riak
+Warning--to sort, need author or key in cassandra
+Warning--to sort, need author or key in redis
+Warning--to sort, need author or key in Twemproxy
+Warning--to sort, need author or key in kafka
+Warning--to sort, need author or key in techstack
+Warning--to sort, need author or key in Nagios
+Warning--to sort, need author or key in m3
+Warning--to sort, need author or key in argos
+Warning--to sort, need author or key in micro_a
+Warning--to sort, need author or key in micro_carpooling
+Warning--to sort, need author or key in micro_secure
+
+Here's how much of BibTeX's memory you used:
+ Cites:                50 out of 750
+ Fields:              702 out of 5000
+ Hash table:        29780 out of 30000
+ Strings:             707 out of 30000
+ Free string pool:   9501 out of 65000
+ Wizard functions:   2253 out of 3000
+(There was 1 error message)

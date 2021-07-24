@@ -1,0 +1,36 @@
+class abcdefghijklmnopqrstuvwxyz {}
+
+class ab extends abcdefghijklmnopqrstuvwxyz {
+    static int ef ;
+	
+	public static void main() {
+        boolean b ;
+		b = false ;
+        int abc ;
+		abc = ( 12 * 3 ) + 4 - 56 ;
+        abc = ab . wx ( 7 , 8 ) ;
+        b = ab . yz ( ) ;
+    }
+	
+	public static int wx ( int vu , int vuvu ) {
+		if (vu < vuvu && vu == 390)
+			return ab . ef ;
+		else {
+			return ab . ef - 10
+			}
+		
+    }
+    public static boolean yz ( ) {
+        boolean bb ;
+        bb = ab . gh ( 9 , 0 ) ;
+        return bb ;
+    }
+	
+    public static boolean gh ( int ij , int kl )  {
+        while ( kl < 0 )
+			System.out.println ( 25 ) ;
+        return true ;
+    }
+}
+
+
